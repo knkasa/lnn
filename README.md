@@ -1,2 +1,2 @@
-# lnn
+# LNN
 Liquid neural network.
