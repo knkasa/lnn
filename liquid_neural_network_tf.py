@@ -1,4 +1,5 @@
 import tensorflow as tf
+# Also available from library.  https://medium.com/@nivedita.home/time-series-model-prediction-with-a-liquid-state-machine-in-python-3c44334b53b2
 
 class LiquidStateMachine(tf.keras.Model):
     def __init__(self, input_size, liquid_size, output_size, spectral_radius=0.9):
